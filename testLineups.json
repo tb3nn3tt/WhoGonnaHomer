@@ -1,0 +1,89 @@
+[
+  {
+    "awayTeam": "Reds",
+    "homeTeam": "Brewers",
+    "park": "American Family Field",
+    "awayPitcher": { "name": "Carson Spiers", "hand": "R" },
+    "homePitcher": { "name": "Chad Patrick", "hand": "R" },
+    "awayLineup": [
+      { "name": "TJ Friedl", "hand": "L" },
+      { "name": "Santiago Espinal", "hand": "R" },
+      { "name": "Elly De La Cruz", "hand": "S" },
+      { "name": "Gavin Lux", "hand": "L" },
+      { "name": "Jeimer Candelario", "hand": "S" },
+      { "name": "Christian Encarnacion-Strand", "hand": "R" },
+      { "name": "Spencer Steer", "hand": "R" },
+      { "name": "Jake Fraley", "hand": "L" },
+      { "name": "Austin Wynns", "hand": "R" }
+    ],
+    "homeLineup": [
+      { "name": "Brice Turang", "hand": "L" },
+      { "name": "Jackson Chourio", "hand": "R" },
+      { "name": "Christian Yelich", "hand": "L" },
+      { "name": "Garrett Mitchell", "hand": "L" },
+      { "name": "Sal Frelick", "hand": "L" },
+      { "name": "Jake Bauers", "hand": "L" },
+      { "name": "Joey Ortiz", "hand": "R" },
+      { "name": "Oliver Dunn", "hand": "L" },
+      { "name": "Eric Haase", "hand": "R" }
+    ]
+  },
+  {
+    "awayTeam": "Padres",
+    "homeTeam": "Cubs",
+    "park": "Wrigley Field",
+    "awayPitcher": { "name": "Kyle Hart", "hand": "L" },
+    "homePitcher": { "name": "Ben Brown", "hand": "R" },
+    "awayLineup": [
+      { "name": "Fernando Tatis Jr.", "hand": "R" },
+      { "name": "Luis Arraez", "hand": "L" },
+      { "name": "Manny Machado", "hand": "R" },
+      { "name": "Jackson Merrill", "hand": "L" },
+      { "name": "Jake Cronenworth", "hand": "L" },
+      { "name": "Xander Bogaerts", "hand": "R" },
+      { "name": "Gavin Sheets", "hand": "L" },
+      { "name": "Jason Heyward", "hand": "L" },
+      { "name": "Elias Díaz", "hand": "R" }
+    ],
+    "homeLineup": [
+      { "name": "Ian Happ", "hand": "S" },
+      { "name": "Seiya Suzuki", "hand": "R" },
+      { "name": "Kyle Tucker", "hand": "L" },
+      { "name": "Justin Turner", "hand": "R" },
+      { "name": "Dansby Swanson", "hand": "R" },
+      { "name": "Nico Hoerner", "hand": "R" },
+      { "name": "Pete Crow-Armstrong", "hand": "L" },
+      { "name": "Matt Shaw", "hand": "R" },
+      { "name": "Carson Kelly", "hand": "R" }
+    ]
+  },
+  {
+    "awayTeam": "Rays",
+    "homeTeam": "Rangers",
+    "park": "Globe Life Field",
+    "awayPitcher": { "name": "Drew Rasmussen", "hand": "R" },
+    "homePitcher": { "name": "Kumar Rocker", "hand": "R" },
+    "awayLineup": [
+      { "name": "Yandy Díaz", "hand": "R" },
+      { "name": "Brandon Lowe", "hand": "L" },
+      { "name": "Junior Caminero", "hand": "R" },
+      { "name": "Jonathan Aranda", "hand": "L" },
+      { "name": "Christopher Morel", "hand": "R" },
+      { "name": "Kameron Misner", "hand": "L" },
+      { "name": "Jake Mangum", "hand": "S" },
+      { "name": "Taylor Walls", "hand": "S" },
+      { "name": "Ben Rortvedt", "hand": "L" }
+    ],
+    "homeLineup": [
+      { "name": "Marcus Semien", "hand": "R" },
+      { "name": "Corey Seager", "hand": "L" },
+      { "name": "Wyatt Langford", "hand": "R" },
+      { "name": "Joc Pederson", "hand": "L" },
+      { "name": "Adolis García", "hand": "R" },
+      { "name": "Jake Burger", "hand": "R" },
+      { "name": "Josh Smith", "hand": "L" },
+      { "name": "Jonah Heim", "hand": "S" },
+      { "name": "Leody Taveras", "hand": "S" }
+    ]
+  }
+]
