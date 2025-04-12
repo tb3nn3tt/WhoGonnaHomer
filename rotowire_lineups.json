@@ -1,1408 +1,544 @@
 [
   {
-    "name": "L. Nootbaar",
+    "name": "Zach Mckinstry",
     "hand": "L",
-    "pitcher": "Mitch Keller",
+    "pitcher": "Chris Paddack",
     "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "W. Contreras",
-    "hand": "R",
-    "pitcher": "Mitch Keller",
-    "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "B. Donovan",
-    "hand": "L",
-    "pitcher": "Mitch Keller",
-    "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "N. Arenado",
-    "hand": "R",
-    "pitcher": "Mitch Keller",
-    "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "A. Burleson",
-    "hand": "L",
-    "pitcher": "Mitch Keller",
-    "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "Pedro Pages",
-    "hand": "R",
-    "pitcher": "Mitch Keller",
-    "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "Victor Scott",
-    "hand": "L",
-    "pitcher": "Mitch Keller",
-    "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "T. Saggese",
-    "hand": "R",
-    "pitcher": "Mitch Keller",
-    "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "Masyn Winn",
-    "hand": "R",
-    "pitcher": "Mitch Keller",
-    "pitcherHand": "R",
-    "park": "Cardinals Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "J. Suwinski",
-    "hand": "L",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "B. Reynolds",
-    "hand": "S",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "A. McCutchen",
-    "hand": "R",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "Joey Bart",
-    "hand": "R",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "K. Hayes",
-    "hand": "R",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "E. Rodriguez",
-    "hand": "S",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "Adam Frazier",
-    "hand": "L",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "Tommy Pham",
-    "hand": "R",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "T. Cheng",
-    "hand": "L",
-    "pitcher": "Erick Fedde",
-    "pitcherHand": "R",
-    "park": "Pirates Park",
-    "gameTime": "12:35 PM ET"
-  },
-  {
-    "name": "Ben Rice",
-    "hand": "L",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "Aaron Judge",
-    "hand": "R",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "C. Bellinger",
-    "hand": "L",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "P. Goldschmidt",
-    "hand": "R",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "J. Chisholm",
-    "hand": "L",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "A. Volpe",
-    "hand": "R",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "J. Dominguez",
-    "hand": "S",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "J.C. Escarra",
-    "hand": "L",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "O. Cabrera",
-    "hand": "S",
-    "pitcher": "Jack Flaherty",
-    "pitcherHand": "R",
-    "park": "Yankees Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "J. Malloy",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
     "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
+    "gameTime": "2:10 PM ET"
   },
   {
-    "name": "Andy Ibanez",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
+    "name": "Kerry Carpenter",
+    "hand": "L",
+    "pitcher": "Chris Paddack",
+    "pitcherHand": "R",
     "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Spencer Torkelson",
+    "hand": "R",
+    "pitcher": "Chris Paddack",
+    "pitcherHand": "R",
+    "park": "Tigers Park",
+    "gameTime": "2:10 PM ET"
   },
   {
     "name": "Riley Greene",
     "hand": "L",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
+    "pitcher": "Chris Paddack",
+    "pitcherHand": "R",
     "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "S. Torkelson",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "D. Dingler",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
+    "gameTime": "2:10 PM ET"
   },
   {
     "name": "Colt Keith",
     "hand": "L",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
+    "pitcher": "Chris Paddack",
+    "pitcherHand": "R",
     "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
+    "gameTime": "2:10 PM ET"
   },
   {
-    "name": "Javier Baez",
+    "name": "Justyn-henry Malloy",
     "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
+    "pitcher": "Chris Paddack",
+    "pitcherHand": "R",
     "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
+    "gameTime": "2:10 PM ET"
   },
   {
-    "name": "R. Kreidler",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
+    "name": "Trey Sweeney",
+    "hand": "L",
+    "pitcher": "Chris Paddack",
+    "pitcherHand": "R",
     "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
+    "gameTime": "2:10 PM ET"
   },
   {
-    "name": "Z. McKinstry",
-    "hand": "L",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
+    "name": "Javier Báez",
+    "hand": "R",
+    "pitcher": "Chris Paddack",
+    "pitcherHand": "R",
     "park": "Tigers Park",
-    "gameTime": "1:10 PM ET"
+    "gameTime": "2:10 PM ET"
   },
   {
-    "name": "X. Edwards",
+    "name": "Tomás Nido",
+    "hand": "R",
+    "pitcher": "Chris Paddack",
+    "pitcherHand": "R",
+    "park": "Tigers Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Matt Wallner",
+    "hand": "L",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Willi Castro",
     "hand": "S",
-    "pitcher": "Max Fried",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Carlos Correa",
+    "hand": "R",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Trevor Larnach",
+    "hand": "L",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Byron Buxton",
+    "hand": "R",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Ty France",
+    "hand": "R",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Edouard Julien",
+    "hand": "L",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Harrison Bader",
+    "hand": "R",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Christian Vázquez",
+    "hand": "R",
+    "pitcher": "Jackson Jobe",
+    "pitcherHand": "R",
+    "park": "Twins Park",
+    "gameTime": "2:10 PM ET"
+  },
+  {
+    "name": "Bryson Stott",
+    "hand": "L",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "Trea Turner",
+    "hand": "R",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "Bryce Harper",
+    "hand": "L",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "Kyle Schwarber",
+    "hand": "L",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "Nick Castellanos",
+    "hand": "R",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "Max Kepler",
+    "hand": "L",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "J.t. Realmuto",
+    "hand": "R",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "Alec Bohm",
+    "hand": "R",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "Brandon Marsh",
+    "hand": "L",
+    "pitcher": "Miles Mikolas",
+    "pitcherHand": "R",
+    "park": "Phillies Park",
+    "gameTime": "2:15 PM ET"
+  },
+  {
+    "name": "Lars Nootbaar",
+    "hand": "L",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "Kyle Stowers",
-    "hand": "L",
-    "pitcher": "Max Fried",
+    "name": "Luken Baker",
+    "hand": "R",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "Jonah Bride",
+    "name": "Willson Contreras",
     "hand": "R",
-    "pitcher": "Max Fried",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "Matt Mervis",
-    "hand": "L",
-    "pitcher": "Max Fried",
+    "name": "Nolan Arenado",
+    "hand": "R",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "Dane Myers",
-    "hand": "R",
-    "pitcher": "Max Fried",
+    "name": "Brendan Donovan",
+    "hand": "L",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "G. Conine",
-    "hand": "L",
-    "pitcher": "Max Fried",
+    "name": "Jordan Walker",
+    "hand": "R",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "Nick Fortes",
+    "name": "Pedro Pagés",
     "hand": "R",
-    "pitcher": "Max Fried",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "G. Pauley",
+    "name": "Victor Scott",
     "hand": "L",
-    "pitcher": "Max Fried",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "J. Sanoja",
+    "name": "Thomas Saggese",
     "hand": "R",
-    "pitcher": "Max Fried",
+    "pitcher": "Cristopher Sánchez",
     "pitcherHand": "L",
-    "park": "Marlins Park",
-    "gameTime": "1:10 PM ET"
+    "park": "Cardinals Park",
+    "gameTime": "2:15 PM ET"
   },
   {
-    "name": "F. Lindor",
-    "hand": "S",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "Juan Soto",
+    "name": "Mike Yastrzemski",
     "hand": "L",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "Pete Alonso",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "B. Nimmo",
-    "hand": "L",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "S. Marte",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "Mark Vientos",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "Brett Baty",
-    "hand": "L",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "T. Taylor",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "H. Senger",
-    "hand": "R",
-    "pitcher": "Max Fried",
-    "pitcherHand": "L",
-    "park": "Mets Park",
-    "gameTime": "1:10 PM ET"
-  },
-  {
-    "name": "M. Semien",
-    "hand": "R",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Corey Seager",
-    "hand": "L",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Josh Jung",
-    "hand": "R",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "A. Garcia",
-    "hand": "R",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Jake Burger",
-    "hand": "R",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "K. Higashioka",
-    "hand": "R",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Kevin Pillar",
-    "hand": "R",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Jonah Heim",
-    "hand": "S",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "L. Taveras",
-    "hand": "S",
-    "pitcher": "Shota Imanaga",
-    "pitcherHand": "L",
-    "park": "Rangers Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Ian Happ",
-    "hand": "S",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Kyle Tucker",
-    "hand": "L",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Seiya Suzuki",
-    "hand": "R",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "M. Busch",
-    "hand": "L",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "D. Swanson",
-    "hand": "R",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Nico Hoerner",
-    "hand": "R",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "P. Crow-Armstrong",
-    "hand": "L",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Matt Shaw",
-    "hand": "R",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Miguel Amaya",
-    "hand": "R",
-    "pitcher": "Tyler Mahle",
-    "pitcherHand": "R",
-    "park": "Cubs Park",
-    "gameTime": "2:20 PM ET"
-  },
-  {
-    "name": "Luis Arraez",
-    "hand": "L",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "X. Bogaerts",
-    "hand": "R",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "M. Machado",
-    "hand": "R",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "Gavin Sheets",
-    "hand": "L",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "O. Gonzalez",
-    "hand": "R",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "J. Iglesias",
-    "hand": "R",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "J. Heyward",
-    "hand": "L",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "B. Lockridge",
-    "hand": "R",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "M. Maldonado",
-    "hand": "R",
-    "pitcher": "Osvaldo Bido",
-    "pitcherHand": "R",
-    "park": "Padres Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "L. Butler",
-    "hand": "L",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "Brent Rooker",
-    "hand": "R",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "T. Soderstrom",
-    "hand": "L",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "S. Langeliers",
-    "hand": "R",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "JJ Bleday",
-    "hand": "L",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "M. Andujar",
-    "hand": "R",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "Jacob Wilson",
-    "hand": "R",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "Luis Urias",
-    "hand": "R",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "Max Muncy",
-    "hand": "R",
-    "pitcher": "Randy Vasquez",
-    "pitcherHand": "R",
-    "park": "Athletics Park",
-    "gameTime": "3:35 PM ET"
-  },
-  {
-    "name": "G. Henderson",
-    "hand": "L",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "A. Rutschman",
-    "hand": "S",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "Ryan O'Hearn",
-    "hand": "L",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "T. O'Neill",
-    "hand": "R",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "C. Mullins",
-    "hand": "L",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "R. Mountcastle",
-    "hand": "R",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "H. Kjerstad",
-    "hand": "L",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "Ramon Urias",
-    "hand": "R",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "J. Holliday",
-    "hand": "L",
-    "pitcher": "Brandon Pfaadt",
-    "pitcherHand": "R",
-    "park": "Orioles Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "C. Carroll",
-    "hand": "L",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "G. Perdomo",
-    "hand": "S",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "Pavin Smith",
-    "hand": "L",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "Josh Naylor",
-    "hand": "L",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "E. Suarez",
-    "hand": "R",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "Alek Thomas",
-    "hand": "L",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "J. McCarthy",
-    "hand": "L",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "Tim Tawa",
-    "hand": "R",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "Jose Herrera",
-    "hand": "S",
-    "pitcher": "Dean Kremer",
-    "pitcherHand": "R",
-    "park": "Diamondbacks Park",
-    "gameTime": "3:40 PM ET"
-  },
-  {
-    "name": "TJ Friedl",
-    "hand": "L",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "S. Espinal",
-    "hand": "R",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "E. De La Cruz",
-    "hand": "S",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "Gavin Lux",
-    "hand": "L",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "C. Encarnacion-Strand",
-    "hand": "R",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "Will Benson",
-    "hand": "L",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "S. Steer",
-    "hand": "R",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "Jake Fraley",
-    "hand": "L",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "Austin Wynns",
-    "hand": "R",
-    "pitcher": "Justin Verlander",
-    "pitcherHand": "R",
-    "park": "Reds Park",
-    "gameTime": "3:45 PM ET"
-  },
-  {
-    "name": "LaMonte Wade",
-    "hand": "L",
-    "pitcher": "Nick Martinez",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
     "name": "Willy Adames",
     "hand": "R",
-    "pitcher": "Nick Martinez",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
     "name": "Jung Hoo Lee",
     "hand": "L",
-    "pitcher": "Nick Martinez",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
     "name": "Matt Chapman",
     "hand": "R",
-    "pitcher": "Nick Martinez",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
     "name": "Heliot Ramos",
     "hand": "R",
-    "pitcher": "Nick Martinez",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "M. Yastrzemski",
+    "name": "Lamonte Wade",
     "hand": "L",
-    "pitcher": "Nick Martinez",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "W. Flores",
+    "name": "Wilmer Flores",
     "hand": "R",
-    "pitcher": "Nick Martinez",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "P. Bailey",
-    "hand": "S",
-    "pitcher": "Nick Martinez",
+    "name": "Sam Huff",
+    "hand": "R",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "T. Fitzgerald",
+    "name": "Tyler Fitzgerald",
     "hand": "R",
-    "pitcher": "Nick Martinez",
+    "pitcher": "Will Warren",
     "pitcherHand": "R",
     "park": "Giants Park",
-    "gameTime": "3:45 PM ET"
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "S. Ohtani",
+    "name": "Ben Rice",
     "hand": "L",
-    "pitcher": "Jake Irvin",
+    "pitcher": "Jordan Hicks",
     "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "Mookie Betts",
+    "name": "Aaron Judge",
     "hand": "R",
-    "pitcher": "Jake Irvin",
+    "pitcher": "Jordan Hicks",
     "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "Tommy Edman",
+    "name": "Cody Bellinger",
+    "hand": "L",
+    "pitcher": "Jordan Hicks",
+    "pitcherHand": "R",
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
+  },
+  {
+    "name": "Paul Goldschmidt",
+    "hand": "R",
+    "pitcher": "Jordan Hicks",
+    "pitcherHand": "R",
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
+  },
+  {
+    "name": "J. Chisholm",
+    "hand": "L",
+    "pitcher": "Jordan Hicks",
+    "pitcherHand": "R",
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
+  },
+  {
+    "name": "Anthony Volpe",
+    "hand": "R",
+    "pitcher": "Jordan Hicks",
+    "pitcherHand": "R",
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
+  },
+  {
+    "name": "Austin Wells",
+    "hand": "L",
+    "pitcher": "Jordan Hicks",
+    "pitcherHand": "R",
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
+  },
+  {
+    "name": "Jasson Domínguez",
     "hand": "S",
-    "pitcher": "Jake Irvin",
+    "pitcher": "Jordan Hicks",
     "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "T. Hernandez",
-    "hand": "R",
-    "pitcher": "Jake Irvin",
-    "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "M. Conforto",
-    "hand": "L",
-    "pitcher": "Jake Irvin",
-    "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Will Smith",
-    "hand": "R",
-    "pitcher": "Jake Irvin",
-    "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Max Muncy",
-    "hand": "L",
-    "pitcher": "Jake Irvin",
-    "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "E. Hernandez",
-    "hand": "R",
-    "pitcher": "Jake Irvin",
-    "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Andy Pages",
-    "hand": "R",
-    "pitcher": "Jake Irvin",
-    "pitcherHand": "R",
-    "park": "Dodgers Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "CJ Abrams",
-    "hand": "L",
-    "pitcher": "Landon Knack",
-    "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "James Wood",
-    "hand": "L",
-    "pitcher": "Landon Knack",
-    "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Keibert Ruiz",
+    "name": "Oswaldo Cabrera",
     "hand": "S",
-    "pitcher": "Landon Knack",
+    "pitcher": "Jordan Hicks",
     "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
+    "park": "Yankees Park",
+    "gameTime": "3:05 PM ET"
   },
   {
-    "name": "N. Lowe",
-    "hand": "L",
-    "pitcher": "Landon Knack",
-    "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Josh Bell",
-    "hand": "S",
-    "pitcher": "Landon Knack",
-    "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Luis Garcia",
-    "hand": "L",
-    "pitcher": "Landon Knack",
-    "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Alex Call",
+    "name": "Jonathan India",
     "hand": "R",
-    "pitcher": "Landon Knack",
+    "pitcher": "Luis L. Ortiz",
     "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Paul DeJong",
-    "hand": "R",
-    "pitcher": "Landon Knack",
-    "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Dylan Crews",
-    "hand": "R",
-    "pitcher": "Landon Knack",
-    "pitcherHand": "R",
-    "park": "Nationals Park",
-    "gameTime": "4:05 PM ET"
-  },
-  {
-    "name": "Jose Altuve",
-    "hand": "R",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "I. Paredes",
-    "hand": "R",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Y. Alvarez",
-    "hand": "L",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "C. Walker",
-    "hand": "R",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Jeremy Pena",
-    "hand": "R",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "V. Caratini",
-    "hand": "S",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "B. Rodgers",
-    "hand": "R",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Jake Meyers",
-    "hand": "R",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Cam Smith",
-    "hand": "R",
-    "pitcher": "Luis F. Castillo",
-    "pitcherHand": "R",
-    "park": "Astros Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "J. Rodriguez",
-    "hand": "R",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "J. Polanco",
-    "hand": "S",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Cal Raleigh",
-    "hand": "S",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "R. Arozarena",
-    "hand": "R",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Luke Raley",
-    "hand": "L",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Rowdy Tellez",
-    "hand": "L",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Dylan Moore",
-    "hand": "R",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "M. Mastrobuoni",
-    "hand": "L",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "J. Crawford",
-    "hand": "L",
-    "pitcher": "Hunter Brown",
-    "pitcherHand": "R",
-    "park": "Mariners Park",
-    "gameTime": "4:10 PM ET"
-  },
-  {
-    "name": "Luis Robert",
-    "hand": "R",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
+    "park": "Royals Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "A. Vaughn",
+    "name": "Bobby Witt",
     "hand": "R",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
+    "pitcher": "Luis L. Ortiz",
+    "pitcherHand": "R",
+    "park": "Royals Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "A. Slater",
-    "hand": "R",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
-    "gameTime": "6:10 PM ET"
-  },
-  {
-    "name": "M. Vargas",
-    "hand": "R",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
-    "gameTime": "6:10 PM ET"
-  },
-  {
-    "name": "Lenyn Sosa",
-    "hand": "R",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
-    "gameTime": "6:10 PM ET"
-  },
-  {
-    "name": "Korey Lee",
-    "hand": "R",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
-    "gameTime": "6:10 PM ET"
-  },
-  {
-    "name": "M. Taylor",
-    "hand": "R",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
-    "gameTime": "6:10 PM ET"
-  },
-  {
-    "name": "Jacob Amaya",
-    "hand": "R",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
-    "gameTime": "6:10 PM ET"
-  },
-  {
-    "name": "M. Tauchman",
+    "name": "Vinnie Pasquantino",
     "hand": "L",
-    "pitcher": "Logan Allen",
-    "pitcherHand": "L",
-    "park": "White Sox Park",
+    "pitcher": "Luis L. Ortiz",
+    "pitcherHand": "R",
+    "park": "Royals Park",
+    "gameTime": "6:10 PM ET"
+  },
+  {
+    "name": "Salvador Perez",
+    "hand": "R",
+    "pitcher": "Luis L. Ortiz",
+    "pitcherHand": "R",
+    "park": "Royals Park",
+    "gameTime": "6:10 PM ET"
+  },
+  {
+    "name": "Michael Massey",
+    "hand": "L",
+    "pitcher": "Luis L. Ortiz",
+    "pitcherHand": "R",
+    "park": "Royals Park",
+    "gameTime": "6:10 PM ET"
+  },
+  {
+    "name": "Cavan Biggio",
+    "hand": "L",
+    "pitcher": "Luis L. Ortiz",
+    "pitcherHand": "R",
+    "park": "Royals Park",
+    "gameTime": "6:10 PM ET"
+  },
+  {
+    "name": "Maikel Garcia",
+    "hand": "R",
+    "pitcher": "Luis L. Ortiz",
+    "pitcherHand": "R",
+    "park": "Royals Park",
+    "gameTime": "6:10 PM ET"
+  },
+  {
+    "name": "Mj Melendez",
+    "hand": "L",
+    "pitcher": "Luis L. Ortiz",
+    "pitcherHand": "R",
+    "park": "Royals Park",
+    "gameTime": "6:10 PM ET"
+  },
+  {
+    "name": "Kyle Isbel",
+    "hand": "L",
+    "pitcher": "Luis L. Ortiz",
+    "pitcherHand": "R",
+    "park": "Royals Park",
     "gameTime": "6:10 PM ET"
   },
   {
     "name": "Steven Kwan",
     "hand": "L",
-    "pitcher": "Sean Burke",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
     "park": "Guardians Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "Jose Ramirez",
+    "name": "José Ramírez",
     "hand": "S",
-    "pitcher": "Sean Burke",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
     "park": "Guardians Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "C. Santana",
+    "name": "Cristian Santana",
     "hand": "S",
-    "pitcher": "Sean Burke",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
     "park": "Guardians Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "K. Manzardo",
+    "name": "Kyle Manzardo",
     "hand": "L",
-    "pitcher": "Sean Burke",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
     "park": "Guardians Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "J. Noel",
+    "name": "Lane Thomas",
     "hand": "R",
-    "pitcher": "Sean Burke",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
     "park": "Guardians Park",
     "gameTime": "6:10 PM ET"
@@ -1410,711 +546,495 @@
   {
     "name": "Nolan Jones",
     "hand": "L",
-    "pitcher": "Sean Burke",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
     "park": "Guardians Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "G. Arias",
+    "name": "Gabriel Arias",
     "hand": "R",
-    "pitcher": "Sean Burke",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
     "park": "Guardians Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "D. Schneemann",
+    "name": "Bo Naylor",
     "hand": "L",
-    "pitcher": "Sean Burke",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
     "park": "Guardians Park",
     "gameTime": "6:10 PM ET"
   },
   {
-    "name": "A. Hedges",
-    "hand": "R",
-    "pitcher": "Sean Burke",
-    "pitcherHand": "R",
-    "park": "Guardians Park",
-    "gameTime": "6:10 PM ET"
-  },
-  {
-    "name": "Bo Bichette",
-    "hand": "R",
-    "pitcher": "Tanner Houck",
-    "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
-  },
-  {
-    "name": "V. Guerrero",
-    "hand": "R",
-    "pitcher": "Tanner Houck",
-    "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
-  },
-  {
-    "name": "A. Santander",
+    "name": "Brayan Rocchio",
     "hand": "S",
-    "pitcher": "Tanner Houck",
+    "pitcher": "Michael Lorenzen",
     "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
+    "park": "Guardians Park",
+    "gameTime": "6:10 PM ET"
   },
   {
-    "name": "A. Gimenez",
-    "hand": "L",
-    "pitcher": "Tanner Houck",
-    "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
-  },
-  {
-    "name": "G. Springer",
+    "name": "Tommy Pham",
     "hand": "R",
-    "pitcher": "Tanner Houck",
-    "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "A. Kirk",
+    "name": "Bryan Reynolds",
+    "hand": "S",
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
+  },
+  {
+    "name": "Joey Bart",
     "hand": "R",
-    "pitcher": "Tanner Houck",
-    "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "Will Wagner",
-    "hand": "L",
-    "pitcher": "Tanner Houck",
-    "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
-  },
-  {
-    "name": "E. Clement",
+    "name": "Andrew Mccutchen",
     "hand": "R",
-    "pitcher": "Tanner Houck",
-    "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "Alan Roden",
+    "name": "Oneil Cruz",
     "hand": "L",
-    "pitcher": "Tanner Houck",
-    "pitcherHand": "R",
-    "park": "Blue Jays Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "Jarren Duran",
-    "hand": "L",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
-  },
-  {
-    "name": "R. Devers",
-    "hand": "L",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
-  },
-  {
-    "name": "Alex Bregman",
+    "name": "Ke'bryan Hayes",
     "hand": "R",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "T. Casas",
+    "name": "Esterling Rodriguez",
+    "hand": "S",
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
+  },
+  {
+    "name": "Adam Frazier",
     "hand": "L",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "Trevor Story",
+    "name": "Isiah Kiner-falefa",
     "hand": "R",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Abbott",
+    "pitcherHand": "L",
+    "park": "Pirates Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "Wilyer Abreu",
+    "name": "Tj Friedl",
     "hand": "L",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "K. Campbell",
+    "name": "Blake Dunn",
     "hand": "R",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "D. Hamilton",
+    "name": "Elly De La Cruz",
+    "hand": "S",
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
+  },
+  {
+    "name": "Spencer Steer",
+    "hand": "R",
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
+  },
+  {
+    "name": "Jeimer Candelario",
+    "hand": "S",
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
+  },
+  {
+    "name": "Noelvi Marte",
+    "hand": "R",
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
+  },
+  {
+    "name": "Gavin Lux",
     "hand": "L",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
   },
   {
-    "name": "C. Narvaez",
+    "name": "Santiago Espinal",
     "hand": "R",
-    "pitcher": "Kevin Gausman",
-    "pitcherHand": "R",
-    "park": "Red Sox Park",
-    "gameTime": "6:45 PM ET"
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
+  },
+  {
+    "name": "Jose Trevino",
+    "hand": "R",
+    "pitcher": "Andrew Heaney",
+    "pitcherHand": "L",
+    "park": "Reds Park",
+    "gameTime": "6:40 PM ET"
   },
   {
     "name": "Taylor Ward",
     "hand": "R",
-    "pitcher": "Ryan Pepiot",
+    "pitcher": "Ryan Gusto",
     "pitcherHand": "R",
     "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "N. Schanuel",
-    "hand": "L",
-    "pitcher": "Ryan Pepiot",
+    "name": "Luis Rengifo",
+    "hand": "S",
+    "pitcher": "Ryan Gusto",
     "pitcherHand": "R",
     "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
+    "gameTime": "7:10 PM ET"
   },
   {
     "name": "Mike Trout",
     "hand": "R",
-    "pitcher": "Ryan Pepiot",
+    "pitcher": "Ryan Gusto",
     "pitcherHand": "R",
     "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
+    "gameTime": "7:10 PM ET"
   },
   {
     "name": "Jorge Soler",
     "hand": "R",
-    "pitcher": "Ryan Pepiot",
+    "pitcher": "Ryan Gusto",
     "pitcherHand": "R",
     "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "L. O'Hoppe",
+    "name": "Logan O'hoppe",
     "hand": "R",
-    "pitcher": "Ryan Pepiot",
+    "pitcher": "Ryan Gusto",
     "pitcherHand": "R",
     "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "Yoan Moncada",
-    "hand": "S",
-    "pitcher": "Ryan Pepiot",
+    "name": "Nolan Schanuel",
+    "hand": "L",
+    "pitcher": "Ryan Gusto",
     "pitcherHand": "R",
     "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
+    "gameTime": "7:10 PM ET"
   },
   {
     "name": "Kyren Paris",
     "hand": "R",
-    "pitcher": "Ryan Pepiot",
+    "pitcher": "Ryan Gusto",
     "pitcherHand": "R",
     "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
+    "gameTime": "7:10 PM ET"
+  },
+  {
+    "name": "Jo Adell",
+    "hand": "R",
+    "pitcher": "Ryan Gusto",
+    "pitcherHand": "R",
+    "park": "Angels Park",
+    "gameTime": "7:10 PM ET"
   },
   {
     "name": "Tim Anderson",
     "hand": "R",
-    "pitcher": "Ryan Pepiot",
+    "pitcher": "Ryan Gusto",
     "pitcherHand": "R",
     "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "Kevin Newman",
+    "name": "Jose Altuve",
     "hand": "R",
-    "pitcher": "Ryan Pepiot",
-    "pitcherHand": "R",
-    "park": "Angels Park",
-    "gameTime": "7:05 PM ET"
-  },
-  {
-    "name": "Yandy Diaz",
-    "hand": "R",
-    "pitcher": "Yusei Kikuchi",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "Brandon Lowe",
-    "hand": "L",
-    "pitcher": "Yusei Kikuchi",
+    "name": "Isaac Paredes",
+    "hand": "R",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "J. Caminero",
-    "hand": "R",
-    "pitcher": "Yusei Kikuchi",
+    "name": "Yordan Alvarez",
+    "hand": "L",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "C. Morel",
+    "name": "Christian Walker",
     "hand": "R",
-    "pitcher": "Yusei Kikuchi",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "Curtis Mead",
+    "name": "Yainer Diaz",
     "hand": "R",
-    "pitcher": "Yusei Kikuchi",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "Danny Jansen",
+    "name": "Jeremy Peña",
     "hand": "R",
-    "pitcher": "Yusei Kikuchi",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "Taylor Walls",
-    "hand": "S",
-    "pitcher": "Yusei Kikuchi",
+    "name": "Cam Smith",
+    "hand": "R",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "J. Caballero",
+    "name": "Jake Meyers",
     "hand": "R",
-    "pitcher": "Yusei Kikuchi",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
-    "name": "Jake Mangum",
-    "hand": "S",
-    "pitcher": "Yusei Kikuchi",
+    "name": "Mauricio Dubón",
+    "hand": "R",
+    "pitcher": "Tyler Anderson",
     "pitcherHand": "L",
-    "park": "Rays Park",
-    "gameTime": "7:05 PM ET"
-  },
-  {
-    "name": "K. Schwarber",
-    "hand": "L",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Trea Turner",
-    "hand": "R",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Bryce Harper",
-    "hand": "L",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Alec Bohm",
-    "hand": "R",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Max Kepler",
-    "hand": "L",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "N. Castellanos",
-    "hand": "R",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "J. Realmuto",
-    "hand": "R",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Bryson Stott",
-    "hand": "L",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "B. Marsh",
-    "hand": "L",
-    "pitcher": "Grant Holmes",
-    "pitcherHand": "R",
-    "park": "Phillies Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "M. Harris",
-    "hand": "L",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Ozzie Albies",
-    "hand": "S",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "M. Ozuna",
-    "hand": "R",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Matt Olson",
-    "hand": "L",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Austin Riley",
-    "hand": "R",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Sean Murphy",
-    "hand": "R",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "B. De La Cruz",
-    "hand": "R",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "J. Kelenic",
-    "hand": "L",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "O. Arcia",
-    "hand": "R",
-    "pitcher": "Taijuan Walker",
-    "pitcherHand": "R",
-    "park": "Braves Park",
-    "gameTime": "7:15 PM ET"
-  },
-  {
-    "name": "Matt Wallner",
-    "hand": "L",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "C. Correa",
-    "hand": "R",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "Byron Buxton",
-    "hand": "R",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "T. Larnach",
-    "hand": "L",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "Ty France",
-    "hand": "R",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "Willi Castro",
-    "hand": "S",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "Ryan Jeffers",
-    "hand": "R",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "E. Julien",
-    "hand": "L",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "H. Bader",
-    "hand": "R",
-    "pitcher": "Seth Lugo",
-    "pitcherHand": "R",
-    "park": "Twins Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "J. India",
-    "hand": "R",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "Bobby Witt",
-    "hand": "R",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "V. Pasquantino",
-    "hand": "L",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "S. Perez",
-    "hand": "R",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "M. Massey",
-    "hand": "L",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "H. Renfroe",
-    "hand": "R",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "Cavan Biggio",
-    "hand": "L",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "M. Garcia",
-    "hand": "R",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
-  },
-  {
-    "name": "Kyle Isbel",
-    "hand": "L",
-    "pitcher": "Joe Ryan",
-    "pitcherHand": "R",
-    "park": "Royals Park",
-    "gameTime": "7:40 PM ET"
+    "park": "Astros Park",
+    "gameTime": "7:10 PM ET"
   },
   {
     "name": "Brice Turang",
     "hand": "L",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
-    "name": "J. Chourio",
+    "name": "Jackson Chourio",
     "hand": "R",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
-    "name": "C. Yelich",
+    "name": "Christian Yelich",
     "hand": "L",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
-    "name": "W. Contreras",
+    "name": "Willson Contreras",
     "hand": "R",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
     "name": "Sal Frelick",
     "hand": "L",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
     "name": "Rhys Hoskins",
     "hand": "R",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
     "name": "Oliver Dunn",
     "hand": "L",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
-    "name": "G. Mitchell",
+    "name": "Garrett Mitchell",
     "hand": "L",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
     "name": "Joey Ortiz",
     "hand": "R",
-    "pitcher": "A. Senzatela",
+    "pitcher": "Corbin Burnes",
     "pitcherHand": "R",
     "park": "Brewers Park",
-    "gameTime": "8:40 PM ET"
+    "gameTime": "8:10 PM ET"
   },
   {
-    "name": "B. Doyle",
-    "hand": "R",
-    "pitcher": "Tyler Alexander",
-    "pitcherHand": "L",
-    "park": "Rockies Park",
-    "gameTime": "8:40 PM ET"
-  },
-  {
-    "name": "E. Tovar",
-    "hand": "R",
-    "pitcher": "Tyler Alexander",
-    "pitcherHand": "L",
-    "park": "Rockies Park",
-    "gameTime": "8:40 PM ET"
-  },
-  {
-    "name": "Ryan McMahon",
+    "name": "Corbin Carroll",
     "hand": "L",
-    "pitcher": "Tyler Alexander",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "Geraldo Perdomo",
+    "hand": "S",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "Pavin Smith",
+    "hand": "L",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "Josh Naylor",
+    "hand": "L",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "L. Gurriel",
+    "hand": "R",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "Eugenio Suárez",
+    "hand": "R",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "Gabriel Moreno",
+    "hand": "R",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "Alek Thomas",
+    "hand": "L",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "Garrett Hampson",
+    "hand": "R",
+    "pitcher": "Chad Patrick",
+    "pitcherHand": "R",
+    "park": "Diamondbacks Park",
+    "gameTime": "8:10 PM ET"
+  },
+  {
+    "name": "Brenton Doyle",
+    "hand": "R",
+    "pitcher": "Kyle Hart",
     "pitcherHand": "L",
     "park": "Rockies Park",
     "gameTime": "8:40 PM ET"
   },
   {
-    "name": "H. Goodman",
+    "name": "Ezequiel Tovar",
     "hand": "R",
-    "pitcher": "Tyler Alexander",
+    "pitcher": "Kyle Hart",
+    "pitcherHand": "L",
+    "park": "Rockies Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Ryan Mcmahon",
+    "hand": "L",
+    "pitcher": "Kyle Hart",
+    "pitcherHand": "L",
+    "park": "Rockies Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Hunter Goodman",
+    "hand": "R",
+    "pitcher": "Kyle Hart",
     "pitcherHand": "L",
     "park": "Rockies Park",
     "gameTime": "8:40 PM ET"
@@ -2122,15 +1042,15 @@
   {
     "name": "Kris Bryant",
     "hand": "R",
-    "pitcher": "Tyler Alexander",
+    "pitcher": "Kyle Hart",
     "pitcherHand": "L",
     "park": "Rockies Park",
     "gameTime": "8:40 PM ET"
   },
   {
-    "name": "M. Toglia",
+    "name": "Michael Toglia",
     "hand": "S",
-    "pitcher": "Tyler Alexander",
+    "pitcher": "Kyle Hart",
     "pitcherHand": "L",
     "park": "Rockies Park",
     "gameTime": "8:40 PM ET"
@@ -2138,15 +1058,15 @@
   {
     "name": "Kyle Farmer",
     "hand": "R",
-    "pitcher": "Tyler Alexander",
+    "pitcher": "Kyle Hart",
     "pitcherHand": "L",
     "park": "Rockies Park",
     "gameTime": "8:40 PM ET"
   },
   {
-    "name": "S. Bouchard",
+    "name": "Sean Bouchard",
     "hand": "R",
-    "pitcher": "Tyler Alexander",
+    "pitcher": "Kyle Hart",
     "pitcherHand": "L",
     "park": "Rockies Park",
     "gameTime": "8:40 PM ET"
@@ -2154,9 +1074,369 @@
   {
     "name": "Zac Veen",
     "hand": "L",
-    "pitcher": "Tyler Alexander",
+    "pitcher": "Kyle Hart",
     "pitcherHand": "L",
     "park": "Rockies Park",
     "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "F. Tatis",
+    "hand": "R",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Luis Arraez",
+    "hand": "L",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Manny Machado",
+    "hand": "R",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Gavin Sheets",
+    "hand": "L",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Xander Bogaerts",
+    "hand": "R",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Jacob Heyward",
+    "hand": "L",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Brandon Lockridge",
+    "hand": "R",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Jose Iglesias",
+    "hand": "R",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Elias Díaz",
+    "hand": "R",
+    "pitcher": "Chase Dollander",
+    "pitcherHand": "R",
+    "park": "Padres Park",
+    "gameTime": "8:40 PM ET"
+  },
+  {
+    "name": "Ian Happ",
+    "hand": "S",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Kyle Tucker",
+    "hand": "L",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Seiya Suzuki",
+    "hand": "R",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Michael Busch",
+    "hand": "L",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Dansby Swanson",
+    "hand": "R",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Nico Hoerner",
+    "hand": "R",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Pete Crow-armstrong",
+    "hand": "L",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Matt Shaw",
+    "hand": "R",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Carson Kelly",
+    "hand": "R",
+    "pitcher": "Roki Sasaki",
+    "pitcherHand": "R",
+    "park": "Cubs Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Shohei Ohtani",
+    "hand": "L",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Mookie Betts",
+    "hand": "R",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Freddie Freeman",
+    "hand": "L",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Teoscar Hernández",
+    "hand": "R",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Michael Conforto",
+    "hand": "L",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Will Smith",
+    "hand": "R",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Max Muncy",
+    "hand": "L",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Tommy Edman",
+    "hand": "S",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Andy Pages",
+    "hand": "R",
+    "pitcher": "Ben Brown",
+    "pitcherHand": "R",
+    "park": "Dodgers Park",
+    "gameTime": "9:10 PM ET"
+  },
+  {
+    "name": "Marcus Semien",
+    "hand": "R",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Corey Seager",
+    "hand": "L",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Josh Jung",
+    "hand": "R",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Joc Pederson",
+    "hand": "L",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Anthony Garcia",
+    "hand": "R",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Jake Burger",
+    "hand": "R",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Josh Smith",
+    "hand": "L",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Jonah Heim",
+    "hand": "S",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Leody Taveras",
+    "hand": "S",
+    "pitcher": "Bryan Woo",
+    "pitcherHand": "R",
+    "park": "Rangers Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Julio Rodríguez",
+    "hand": "R",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Jorge Polanco",
+    "hand": "S",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Randy Arozarena",
+    "hand": "R",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Cal Raleigh",
+    "hand": "S",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Luke Raley",
+    "hand": "L",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Mitch Garver",
+    "hand": "R",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Rowdy Tellez",
+    "hand": "L",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Dylan Moore",
+    "hand": "R",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
+  },
+  {
+    "name": "Justin Crawford",
+    "hand": "L",
+    "pitcher": "Kumar Rocker",
+    "pitcherHand": "R",
+    "park": "Mariners Park",
+    "gameTime": "9:40 PM ET"
   }
 ]

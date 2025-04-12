@@ -1,56 +1,56 @@
 {
-  "timestamp": 1744239249617,
+  "timestamp": 1744483022461,
   "data": {
     "Yankees": {
       "R": 0.85,
-      "L": 0.9433537387563816,
-      "S": 0.88835,
+      "L": 0.85,
+      "S": 0.85,
       "raw": {
-        "windSpeed": 12.66,
-        "windDeg": 190,
-        "temp": 44.87,
-        "humidity": 43,
-        "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️44.9°F 💧43% 💨12.7mph",
-        "windDirectionText": "Blowing in from CF",
+        "windSpeed": 15.01,
+        "windDeg": 20,
+        "temp": 39.58,
+        "humidity": 91,
+        "windArrow": "⬆️",
+        "emoji": "⬆️ 🌡️39.6°F 💧91% 💨15.0mph",
+        "windDirectionText": "Blowing out to CF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Orioles": {
-      "R": 0.8813040638582267,
-      "L": 0.9470959361417733,
-      "S": 0.9142,
+      "R": 0.8720544810685839,
+      "L": 0.85,
+      "S": 0.85,
       "raw": {
-        "windSpeed": 10.36,
-        "windDeg": 150,
-        "temp": 49.64,
-        "humidity": 42,
-        "windArrow": "↘️",
-        "emoji": "↘️ 🌡️49.6°F 💧42% 💨10.4mph",
-        "windDirectionText": "Blowing out to RF",
+        "windSpeed": 9.22,
+        "windDeg": 340,
+        "temp": 48.54,
+        "humidity": 76,
+        "windArrow": "⬆️",
+        "emoji": "⬆️ 🌡️48.5°F 💧76% 💨9.2mph",
+        "windDirectionText": "Blowing out to CF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Red Sox": {
-      "R": 0.9124043322099841,
-      "L": 0.9011956677900159,
-      "S": 0.9068,
+      "R": 0.85,
+      "L": 0.85,
+      "S": 0.85,
       "raw": {
-        "windSpeed": 4,
-        "windDeg": 308,
-        "temp": 44.56,
-        "humidity": 33,
-        "windArrow": "↖️",
-        "emoji": "↖️ 🌡️44.6°F 💧33% 💨4.0mph",
-        "windDirectionText": "Blowing out to LF",
+        "windSpeed": 16.11,
+        "windDeg": 30,
+        "temp": 37.76,
+        "humidity": 88,
+        "windArrow": "↗️",
+        "emoji": "↗️ 🌡️37.8°F 💧88% 💨16.1mph",
+        "windDirectionText": "Blowing out to CF",
         "favorability": {
           "R": "Favorable for RHH",
           "L": "Unfavorable for LHH",
@@ -60,16 +60,16 @@
     },
     "Blue Jays": {
       "R": 0.85,
-      "L": 0.854648062821811,
+      "L": 0.8500580128011187,
       "S": 0.85,
       "raw": {
-        "windSpeed": 10.36,
-        "windDeg": 160,
-        "temp": 38.89,
-        "humidity": 60,
+        "windSpeed": 3,
+        "windDeg": 158,
+        "temp": 46.69,
+        "humidity": 71,
         "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️38.9°F 💧60% 💨10.4mph",
-        "windDirectionText": "Blowing in from CF",
+        "emoji": "⬇️ 🌡️46.7°F 💧71% 💨3.0mph",
+        "windDirectionText": "Blowing out to RF",
         "favorability": {
           "R": "Unfavorable for RHH",
           "L": "Favorable for LHH",
@@ -78,16 +78,16 @@
       }
     },
     "Rays": {
-      "R": 1.0608877841179245,
-      "L": 0.9493122158820755,
-      "S": 1.0050999999999999,
+      "R": 1.04573077875,
+      "L": 0.9591692212500001,
+      "S": 1.00245,
       "raw": {
         "windSpeed": 17.27,
-        "windDeg": 320,
-        "temp": 71.82,
+        "windDeg": 310,
+        "temp": 71.29,
         "humidity": 52,
         "windArrow": "↖️",
-        "emoji": "↖️ 🌡️71.8°F 💧52% 💨17.3mph",
+        "emoji": "↖️ 🌡️71.3°F 💧52% 💨17.3mph",
         "windDirectionText": "Blowing out to LF",
         "favorability": {
           "R": "Favorable for RHH",
@@ -97,54 +97,73 @@
       }
     },
     "White Sox": {
-      "R": 0.85,
-      "L": 0.85,
-      "S": 0.85,
+      "R": 0.9419854589781508,
+      "L": 0.9533145410218492,
+      "S": 0.94765,
       "raw": {
-        "windSpeed": 8.32,
-        "windDeg": 164,
-        "temp": 39.99,
-        "humidity": 84,
-        "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️40.0°F 💧84% 💨8.3mph",
-        "windDirectionText": "Blowing in from CF",
+        "windSpeed": 5.75,
+        "windDeg": 130,
+        "temp": 58.33,
+        "humidity": 47,
+        "windArrow": "↘️",
+        "emoji": "↘️ 🌡️58.3°F 💧47% 💨5.8mph",
+        "windDirectionText": "Blowing out to RF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Neutral",
+          "L": "Neutral",
           "S": "Neutral"
         }
       }
     },
     "Guardians": {
-      "R": 0.8718125900326873,
-      "L": 0.9290874099673125,
-      "S": 0.90045,
+      "R": 0.8583389225313632,
+      "L": 0.85,
+      "S": 0.85,
       "raw": {
-        "windSpeed": 6.91,
-        "windDeg": 180,
-        "temp": 46.09,
-        "humidity": 40,
-        "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️46.1°F 💧40% 💨6.9mph",
-        "windDirectionText": "Blowing in from CF",
+        "windSpeed": 11.5,
+        "windDeg": 340,
+        "temp": 44.74,
+        "humidity": 75,
+        "windArrow": "⬆️",
+        "emoji": "⬆️ 🌡️44.7°F 💧75% 💨11.5mph",
+        "windDirectionText": "Blowing out to CF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Tigers": {
-      "R": 0.85,
-      "L": 0.8814534924689527,
-      "S": 0.85305,
+      "R": 0.9531123950000001,
+      "L": 0.904987605,
+      "S": 0.92905,
       "raw": {
         "windSpeed": 10.36,
-        "windDeg": 130,
-        "temp": 43.41,
-        "humidity": 57,
+        "windDeg": 60,
+        "temp": 54.21,
+        "humidity": 46,
+        "windArrow": "↗️",
+        "emoji": "↗️ 🌡️54.2°F 💧46% 💨10.4mph",
+        "windDirectionText": "Blowing out to RF",
+        "favorability": {
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
+          "S": "Neutral"
+        }
+      }
+    },
+    "Royals": {
+      "R": 1.002297379236977,
+      "L": 1.038302620763023,
+      "S": 1.0203,
+      "raw": {
+        "windSpeed": 8.05,
+        "windDeg": 140,
+        "temp": 69.26,
+        "humidity": 38,
         "windArrow": "↘️",
-        "emoji": "↘️ 🌡️43.4°F 💧57% 💨10.4mph",
+        "emoji": "↘️ 🌡️69.3°F 💧38% 💨8.1mph",
         "windDirectionText": "Blowing out to RF",
         "favorability": {
           "R": "Unfavorable for RHH",
@@ -153,36 +172,17 @@
         }
       }
     },
-    "Royals": {
-      "R": 1.0641307855420647,
-      "L": 1.0526692144579353,
-      "S": 1.0584,
-      "raw": {
-        "windSpeed": 10.36,
-        "windDeg": 300,
-        "temp": 72.88,
-        "humidity": 28,
-        "windArrow": "↖️",
-        "emoji": "↖️ 🌡️72.9°F 💧28% 💨10.4mph",
-        "windDirectionText": "Blowing out to LF",
-        "favorability": {
-          "R": "Neutral",
-          "L": "Neutral",
-          "S": "Neutral"
-        }
-      }
-    },
     "Twins": {
-      "R": 0.974824050586355,
-      "L": 1.0059759494136449,
-      "S": 0.9904000000000001,
+      "R": 0.935902946967512,
+      "L": 1.0346970530324882,
+      "S": 0.9853000000000001,
       "raw": {
-        "windSpeed": 8.05,
-        "windDeg": 140,
-        "temp": 61.68,
-        "humidity": 34,
+        "windSpeed": 18.41,
+        "windDeg": 150,
+        "temp": 64.26,
+        "humidity": 43,
         "windArrow": "↘️",
-        "emoji": "↘️ 🌡️61.7°F 💧34% 💨8.1mph",
+        "emoji": "↘️ 🌡️64.3°F 💧43% 💨18.4mph",
         "windDirectionText": "Blowing out to RF",
         "favorability": {
           "R": "Unfavorable for RHH",
@@ -192,16 +192,16 @@
       }
     },
     "Astros": {
-      "R": 1.0314211494926588,
-      "L": 1.1057788505073411,
-      "S": 1.0686,
+      "R": 1.064623075050706,
+      "L": 1.126676924949294,
+      "S": 1.09565,
       "raw": {
-        "windSpeed": 9.22,
-        "windDeg": 250,
-        "temp": 79.72,
-        "humidity": 40,
-        "windArrow": "⬅️",
-        "emoji": "⬅️ 🌡️79.7°F 💧40% 💨9.2mph",
+        "windSpeed": 5.99,
+        "windDeg": 228,
+        "temp": 83.93,
+        "humidity": 37,
+        "windArrow": "↙️",
+        "emoji": "↙️ 🌡️83.9°F 💧37% 💨6.0mph",
         "windDirectionText": "Blowing in from CF",
         "favorability": {
           "R": "Unfavorable for RHH",
@@ -211,35 +211,35 @@
       }
     },
     "Mariners": {
-      "R": 0.9467094647902525,
-      "L": 0.9400905352097474,
-      "S": 0.9434,
+      "R": 0.85,
+      "L": 0.8831819080976583,
+      "S": 0.8554999999999999,
       "raw": {
-        "windSpeed": 8.05,
-        "windDeg": 300,
-        "temp": 59.88,
-        "humidity": 53,
-        "windArrow": "↖️",
-        "emoji": "↖️ 🌡️59.9°F 💧53% 💨8.1mph",
+        "windSpeed": 11.01,
+        "windDeg": 259,
+        "temp": 49.5,
+        "humidity": 71,
+        "windArrow": "⬅️",
+        "emoji": "⬅️ 🌡️49.5°F 💧71% 💨11.0mph",
         "windDirectionText": "Blowing out to LF",
         "favorability": {
-          "R": "Neutral",
-          "L": "Neutral",
+          "R": "Unfavorable for RHH",
+          "L": "Favorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Rangers": {
-      "R": 1.0149282692031723,
+      "R": 1.020899126574279,
       "L": 1.15,
-      "S": 1.1011,
+      "S": 1.089,
       "raw": {
-        "windSpeed": 17.27,
+        "windSpeed": 13.8,
         "windDeg": 170,
-        "temp": 83.82,
-        "humidity": 34,
+        "temp": 80.2,
+        "humidity": 31,
         "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️83.8°F 💧34% 💨17.3mph",
+        "emoji": "⬇️ 🌡️80.2°F 💧31% 💨13.8mph",
         "windDirectionText": "Blowing in from CF",
         "favorability": {
           "R": "Unfavorable for RHH",
@@ -249,17 +249,17 @@
       }
     },
     "Angels": {
-      "R": 1.0388098845444687,
-      "L": 1.0939901154555314,
-      "S": 1.0664,
+      "R": 0.9431052469973618,
+      "L": 0.9844947530026382,
+      "S": 0.9638,
       "raw": {
-        "windSpeed": 8.05,
-        "windDeg": 150,
-        "temp": 80.08,
-        "humidity": 42,
-        "windArrow": "↘️",
-        "emoji": "↘️ 🌡️80.1°F 💧42% 💨8.1mph",
-        "windDirectionText": "Blowing out to RF",
+        "windSpeed": 5.01,
+        "windDeg": 231,
+        "temp": 68.76,
+        "humidity": 65,
+        "windArrow": "↙️",
+        "emoji": "↙️ 🌡️68.8°F 💧65% 💨5.0mph",
+        "windDirectionText": "Blowing in from CF",
         "favorability": {
           "R": "Unfavorable for RHH",
           "L": "Favorable for LHH",
@@ -268,17 +268,17 @@
       }
     },
     "Athletics": {
-      "R": 0.8659859169356063,
-      "L": 0.8877140830643937,
-      "S": 0.87685,
+      "R": 0.9487077643246763,
+      "L": 0.9571922356753237,
+      "S": 0.95295,
       "raw": {
-        "windSpeed": 8.99,
-        "windDeg": 151,
-        "temp": 42.57,
-        "humidity": 43,
-        "windArrow": "↘️",
-        "emoji": "↘️ 🌡️42.6°F 💧43% 💨9.0mph",
-        "windDirectionText": "Blowing out to RF",
+        "windSpeed": 3.44,
+        "windDeg": 300,
+        "temp": 54.19,
+        "humidity": 34,
+        "windArrow": "↖️",
+        "emoji": "↖️ 🌡️54.2°F 💧34% 💨3.4mph",
+        "windDirectionText": "Blowing out to LF",
         "favorability": {
           "R": "Unfavorable for RHH",
           "L": "Favorable for LHH",
@@ -288,35 +288,35 @@
     },
     "Mets": {
       "R": 0.85,
-      "L": 0.9433537387563816,
-      "S": 0.88835,
+      "L": 0.85,
+      "S": 0.85,
       "raw": {
-        "windSpeed": 12.66,
-        "windDeg": 190,
-        "temp": 44.87,
-        "humidity": 43,
-        "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️44.9°F 💧43% 💨12.7mph",
-        "windDirectionText": "Blowing in from CF",
+        "windSpeed": 15.01,
+        "windDeg": 20,
+        "temp": 39.58,
+        "humidity": 91,
+        "windArrow": "⬆️",
+        "emoji": "⬆️ 🌡️39.6°F 💧91% 💨15.0mph",
+        "windDirectionText": "Blowing out to CF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Nationals": {
-      "R": 0.9595175863719679,
-      "L": 0.9504824136280319,
-      "S": 0.955,
+      "R": 0.9694825149999999,
+      "L": 0.9053174850000001,
+      "S": 0.9374,
       "raw": {
-        "windSpeed": 2.64,
-        "windDeg": 87,
-        "temp": 57.4,
-        "humidity": 41,
-        "windArrow": "➡️",
-        "emoji": "➡️ 🌡️57.4°F 💧41% 💨2.6mph",
-        "windDirectionText": "Blowing out to RF",
+        "windSpeed": 13.69,
+        "windDeg": 318,
+        "temp": 51.08,
+        "humidity": 34,
+        "windArrow": "↖️",
+        "emoji": "↖️ 🌡️51.1°F 💧34% 💨13.7mph",
+        "windDirectionText": "Blowing out to LF",
         "favorability": {
           "R": "Favorable for RHH",
           "L": "Unfavorable for LHH",
@@ -325,54 +325,54 @@
       }
     },
     "Braves": {
-      "R": 0.994497992308734,
-      "L": 1.041502007691266,
-      "S": 1.018,
+      "R": 1.0185818601846475,
+      "L": 0.9286181398153525,
+      "S": 0.9736,
       "raw": {
-        "windSpeed": 8.05,
-        "windDeg": 150,
-        "temp": 67.6,
-        "humidity": 35,
-        "windArrow": "↘️",
-        "emoji": "↘️ 🌡️67.6°F 💧35% 💨8.1mph",
-        "windDirectionText": "Blowing out to RF",
+        "windSpeed": 16.11,
+        "windDeg": 330,
+        "temp": 59.92,
+        "humidity": 38,
+        "windArrow": "↖️",
+        "emoji": "↖️ 🌡️59.9°F 💧38% 💨16.1mph",
+        "windDirectionText": "Blowing out to LF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Phillies": {
-      "R": 0.9063924732390686,
-      "L": 0.9465075267609314,
-      "S": 0.92645,
+      "R": 0.85,
+      "L": 0.85,
+      "S": 0.85,
       "raw": {
-        "windSpeed": 12.66,
-        "windDeg": 270,
-        "temp": 48.49,
-        "humidity": 33,
-        "windArrow": "⬅️",
-        "emoji": "⬅️ 🌡️48.5°F 💧33% 💨12.7mph",
-        "windDirectionText": "Blowing out to LF",
+        "windSpeed": 16.11,
+        "windDeg": 10,
+        "temp": 41.5,
+        "humidity": 89,
+        "windArrow": "⬆️",
+        "emoji": "⬆️ 🌡️41.5°F 💧89% 💨16.1mph",
+        "windDirectionText": "Blowing out to CF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Marlins": {
-      "R": 1.0654136952331164,
-      "L": 0.9662863047668835,
-      "S": 1.01585,
+      "R": 1.1058348738340775,
+      "L": 1.0533651261659227,
+      "S": 1.0796000000000001,
       "raw": {
-        "windSpeed": 13.8,
-        "windDeg": 330,
-        "temp": 77.97,
-        "humidity": 62,
+        "windSpeed": 11.5,
+        "windDeg": 310,
+        "temp": 79.92,
+        "humidity": 35,
         "windArrow": "↖️",
-        "emoji": "↖️ 🌡️78.0°F 💧62% 💨13.8mph",
+        "emoji": "↖️ 🌡️79.9°F 💧35% 💨11.5mph",
         "windDirectionText": "Blowing out to LF",
         "favorability": {
           "R": "Favorable for RHH",
@@ -382,17 +382,17 @@
       }
     },
     "Cubs": {
-      "R": 0.85,
-      "L": 0.85,
-      "S": 0.85,
+      "R": 0.9340275312499999,
+      "L": 0.96127246875,
+      "S": 0.94765,
       "raw": {
-        "windSpeed": 8.32,
-        "windDeg": 164,
-        "temp": 39.99,
-        "humidity": 84,
-        "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️40.0°F 💧84% 💨8.3mph",
-        "windDirectionText": "Blowing in from CF",
+        "windSpeed": 5.75,
+        "windDeg": 130,
+        "temp": 58.33,
+        "humidity": 47,
+        "windArrow": "↘️",
+        "emoji": "↘️ 🌡️58.3°F 💧47% 💨5.8mph",
+        "windDirectionText": "Blowing out to RF",
         "favorability": {
           "R": "Unfavorable for RHH",
           "L": "Favorable for LHH",
@@ -401,73 +401,73 @@
       }
     },
     "Cardinals": {
-      "R": 0.9839751957449322,
-      "L": 1.0342248042550675,
-      "S": 1.0090999999999999,
+      "R": 0.9835093514488991,
+      "L": 0.965790648551101,
+      "S": 0.97465,
       "raw": {
-        "windSpeed": 5.75,
-        "windDeg": 180,
-        "temp": 68.22,
-        "humidity": 41,
-        "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️68.2°F 💧41% 💨5.8mph",
-        "windDirectionText": "Blowing in from CF",
+        "windSpeed": 1.99,
+        "windDeg": 6,
+        "temp": 62.53,
+        "humidity": 44,
+        "windArrow": "⬆️",
+        "emoji": "⬆️ 🌡️62.5°F 💧44% 💨2.0mph",
+        "windDirectionText": "Blowing out to CF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Reds": {
-      "R": 0.85,
-      "L": 0.85,
-      "S": 0.85,
+      "R": 0.9962142757465775,
+      "L": 0.9031857242534225,
+      "S": 0.9497,
       "raw": {
-        "windSpeed": 4,
-        "windDeg": 161,
-        "temp": 43.45,
-        "humidity": 80,
-        "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️43.5°F 💧80% 💨4.0mph",
-        "windDirectionText": "Blowing in from CF",
+        "windSpeed": 10.36,
+        "windDeg": 360,
+        "temp": 56.34,
+        "humidity": 41,
+        "windArrow": "⬆️",
+        "emoji": "⬆️ 🌡️56.3°F 💧41% 💨10.4mph",
+        "windDirectionText": "Blowing out to CF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Pirates": {
-      "R": 0.9135902962500001,
-      "L": 0.9457097037500001,
-      "S": 0.9296500000000001,
+      "R": 0.85,
+      "L": 0.85,
+      "S": 0.85,
       "raw": {
-        "windSpeed": 6.91,
-        "windDeg": 260,
-        "temp": 49.53,
-        "humidity": 34,
-        "windArrow": "⬅️",
-        "emoji": "⬅️ 🌡️49.5°F 💧34% 💨6.9mph",
+        "windSpeed": 9.22,
+        "windDeg": 330,
+        "temp": 44.38,
+        "humidity": 78,
+        "windArrow": "↖️",
+        "emoji": "↖️ 🌡️44.4°F 💧78% 💨9.2mph",
         "windDirectionText": "Blowing out to LF",
         "favorability": {
-          "R": "Unfavorable for RHH",
-          "L": "Favorable for LHH",
+          "R": "Favorable for RHH",
+          "L": "Unfavorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Brewers": {
-      "R": 0.85,
-      "L": 0.85,
-      "S": 0.85,
+      "R": 0.9459817235182876,
+      "L": 1.0043182764817122,
+      "S": 0.97515,
       "raw": {
-        "windSpeed": 16.11,
-        "windDeg": 160,
-        "temp": 36.46,
-        "humidity": 85,
-        "windArrow": "⬇️",
-        "emoji": "⬇️ 🌡️36.5°F 💧85% 💨16.1mph",
+        "windSpeed": 8.05,
+        "windDeg": 240,
+        "temp": 59.83,
+        "humidity": 37,
+        "windArrow": "↙️",
+        "emoji": "↙️ 🌡️59.8°F 💧37% 💨8.1mph",
         "windDirectionText": "Blowing in from CF",
         "favorability": {
           "R": "Unfavorable for RHH",
@@ -477,16 +477,16 @@
       }
     },
     "Dodgers": {
-      "R": 0.9980565,
-      "L": 1.0571435000000002,
-      "S": 1.0276,
+      "R": 0.9309740328262197,
+      "L": 0.9683259671737802,
+      "S": 0.94965,
       "raw": {
         "windSpeed": 11.5,
-        "windDeg": 270,
-        "temp": 75.52,
-        "humidity": 50,
+        "windDeg": 280,
+        "temp": 67.53,
+        "humidity": 69,
         "windArrow": "⬅️",
-        "emoji": "⬅️ 🌡️75.5°F 💧50% 💨11.5mph",
+        "emoji": "⬅️ 🌡️67.5°F 💧69% 💨11.5mph",
         "windDirectionText": "Blowing out to LF",
         "favorability": {
           "R": "Unfavorable for RHH",
@@ -496,35 +496,35 @@
       }
     },
     "Giants": {
-      "R": 0.95963867884949,
-      "L": 0.9617613211505099,
-      "S": 0.9607,
+      "R": 0.8788181141237952,
+      "L": 0.9435818858762048,
+      "S": 0.9112,
       "raw": {
-        "windSpeed": 12.66,
-        "windDeg": 290,
-        "temp": 68.14,
-        "humidity": 65,
+        "windSpeed": 13.8,
+        "windDeg": 260,
+        "temp": 58.64,
+        "humidity": 66,
         "windArrow": "⬅️",
-        "emoji": "⬅️ 🌡️68.1°F 💧65% 💨12.7mph",
+        "emoji": "⬅️ 🌡️58.6°F 💧66% 💨13.8mph",
         "windDirectionText": "Blowing out to LF",
         "favorability": {
-          "R": "Neutral",
-          "L": "Neutral",
+          "R": "Unfavorable for RHH",
+          "L": "Favorable for LHH",
           "S": "Neutral"
         }
       }
     },
     "Padres": {
-      "R": 0.9521066073161841,
-      "L": 1.0364933926838158,
-      "S": 0.9943,
+      "R": 0.9227051361260993,
+      "L": 0.9895948638739008,
+      "S": 0.95615,
       "raw": {
-        "windSpeed": 9.22,
-        "windDeg": 230,
-        "temp": 72.86,
-        "humidity": 60,
+        "windSpeed": 7,
+        "windDeg": 205,
+        "temp": 68.43,
+        "humidity": 68,
         "windArrow": "↙️",
-        "emoji": "↙️ 🌡️72.9°F 💧60% 💨9.2mph",
+        "emoji": "↙️ 🌡️68.4°F 💧68% 💨7.0mph",
         "windDirectionText": "Blowing in from CF",
         "favorability": {
           "R": "Unfavorable for RHH",
@@ -534,20 +534,20 @@
       }
     },
     "Rockies": {
-      "R": 1.1244385709643787,
-      "L": 1.0463614290356216,
-      "S": 1.0854000000000001,
+      "R": 1.1221245212102782,
+      "L": 1.15,
+      "S": 1.1393000000000002,
       "raw": {
-        "windSpeed": 10,
-        "windDeg": 316,
-        "temp": 72.28,
-        "humidity": 13,
-        "windArrow": "↖️",
-        "emoji": "↖️ 🌡️72.3°F 💧13% 💨10.0mph",
-        "windDirectionText": "Blowing out to CF",
+        "windSpeed": 5.01,
+        "windDeg": 127,
+        "temp": 82.26,
+        "humidity": 11,
+        "windArrow": "↘️",
+        "emoji": "↘️ 🌡️82.3°F 💧11% 💨5.0mph",
+        "windDirectionText": "Blowing out to RF",
         "favorability": {
-          "R": "Favorable for RHH",
-          "L": "Unfavorable for LHH",
+          "R": "Unfavorable for RHH",
+          "L": "Favorable for LHH",
           "S": "Neutral"
         }
       }
@@ -557,13 +557,13 @@
       "L": 1.15,
       "S": 1.15,
       "raw": {
-        "windSpeed": 9.22,
-        "windDeg": 230,
-        "temp": 95.22,
-        "humidity": 9,
-        "windArrow": "↙️",
-        "emoji": "↙️ 🌡️95.2°F 💧9% 💨9.2mph",
-        "windDirectionText": "Blowing in from CF",
+        "windSpeed": 6.91,
+        "windDeg": 150,
+        "temp": 92.05,
+        "humidity": 11,
+        "windArrow": "↘️",
+        "emoji": "↘️ 🌡️92.0°F 💧11% 💨6.9mph",
+        "windDirectionText": "Blowing out to RF",
         "favorability": {
           "R": "Unfavorable for RHH",
           "L": "Favorable for LHH",
